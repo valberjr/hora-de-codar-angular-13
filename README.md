@@ -1,4 +1,6 @@
-# Angular13Curso
+# hora-de-codar-angular-13
+
+curso do canal hora de codar: https://youtu.be/vJt_K1bFUeA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
